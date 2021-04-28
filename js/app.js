@@ -30,6 +30,6 @@ else if(NF == 'Intergalactic space'){
 console.log('(Space of the moon ,Intergalactic space)? '+ NF);
 //alert('answer is: ' + NF); 
 
-alert('Do you love Space? '+ typeN + 'the number of student 1 is: ' + stu1+ ' the number of student 2 is: ' + stu2 +' whwn you enter type answer is:'+ NF);
+alert('Do you love Space? '+ typeN  + '\n the number of student 1 is: ' + stu1 + '\n the number of student 2 is: ' + stu2  +'\n when you enter type answer is: '+ NF);
 
 
