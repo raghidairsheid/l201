@@ -1,14 +1,14 @@
-
+// Lab01b
 
 let typeN = prompt('Do you love Space? yes or no');
 console.log(typeN);
-//alert('the answer is :'+ typeN);
+alert('yes I love space');
 
 let stu1= parseInt(prompt('please enter number of student 1:'));
 console.log('please enter number of student 1:'+ stu1);
 let stu2 = parseInt(prompt('please enter number of student 2:'));
 console.log('please enter number of student 2:'+stu2);
-//alert('the number of student 1 is: ' + stu1+ ' the number of student 2 is: ' + stu2);
+alert('the number of student 1 is: ' + stu1+ '\n the number of student 2 is: ' + stu2 + '\n yes I love space');
 
 let sum = stu1 + stu2;
 console.log('sum= ' , sum);
@@ -28,7 +28,7 @@ else if(NF == 'Intergalactic space'){
     document.writeln("<p>This is Intergalactic space </p>" + image2+ "<br>");
 }
 console.log('(Space of the moon ,Intergalactic space)? '+ NF);
-//alert('answer is: ' + NF); 
+alert('answer is: ' + NF + '\n the number of student 1 is: ' + stu1+ '\n the number of student 2 is: ' + stu2 + '\n yes I love space'); 
 
 alert('Do you love Space? '+ typeN  + '\n the number of student 1 is: ' + stu1 + '\n the number of student 2 is: ' + stu2  +'\n when you enter type answer is: '+ NF);
 
