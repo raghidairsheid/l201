@@ -6,12 +6,12 @@ alert('yes I love space');
 //q2
 let stu1= parseInt(prompt('please enter number of student 1:'));
 console.log('please enter number of student 1:'+ stu1);
-alert('the number of student 1 is: ' + stu1 + '\n yes I love space');
+alert('The number of student 1 is: ' + stu1 + '\n yes I love space');
 
 //q3
 let stu2 = parseInt(prompt('please enter number of student 2:'));
 console.log('please enter number of student 2:'+stu2);
-alert('the number of student 1 is: ' + stu1 +'\n the number of student 2 is: ' + stu2 + '\n yes I love space');
+alert('The number of student 2 is: ' + stu2 +'\n The number of student 1 is: ' + stu1 + '\n yes I love space');
 
 let sum = stu1 + stu2;
 console.log('sum= ' , sum);
@@ -31,6 +31,6 @@ else if(NF == 'Intergalactic space'){
     document.writeln("<p>This is Intergalactic space </p>" + image2+ "<br>");
 }
 console.log('(Space of the moon ,Intergalactic space)? '+ NF);
-alert('Do you love Space? ' + NF + '\n the number of student 1 is: ' + stu1+ '\n the number of student 2 is: ' + stu2 + '\n yes I love space'); 
+alert('Do you love Space? ' + NF +'\n the number of student 2 is: ' + stu2 + '\n The number of student 1 is: ' + stu1+  '\n yes I love space'); 
 
 
